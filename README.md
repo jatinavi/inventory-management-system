@@ -71,7 +71,6 @@ react-frontend/
 ## ⚙️ How to Run the Project
 
 ### Backend
-```bash
 cd springboot-backend
 mvn spring-boot:run
 Backend will run on:
@@ -98,6 +97,12 @@ Audit logging
 Full stack application development
 REST API best practices
 Frontend–backend integration
+Clean code and modular design
+Enterprise project structuring
+👤 Author
+Jatin Kumar Balchandani
+GitHub: https://github.com/jatinavi
+
 Clean code and modular design
 Enterprise project structuring
 👤 Author
