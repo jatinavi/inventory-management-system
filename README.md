@@ -66,28 +66,16 @@ react-frontend/
 ├── services -> API calls
 └── pages -> Application screens
 
+
 ---
 
-## ⚙️ How to Run the Project
-
-### Backend
-cd springboot-backend
-mvn spring-boot:run
-Backend will run on:
-http://localhost:8080
-Frontend
-cd react-frontend
-npm install
-npm start
-Frontend will run on:
-http://localhost:3000
 🔌 API Overview
 Method	Endpoint	Description
 GET	/api/items	Get all inventory items
 POST	/api/items	Add a new item
 PUT	/api/items/{id}	Update an item
 DELETE	/api/items/{id}	Delete an item
-🎯 Future Enhancements
+🚀 Future Enhancements
 Role-based authentication (Admin / User)
 JWT-based security
 Oracle / PostgreSQL integration
@@ -103,8 +91,3 @@ Enterprise project structuring
 Jatin Kumar Balchandani
 GitHub: https://github.com/jatinavi
 
-Clean code and modular design
-Enterprise project structuring
-👤 Author
-Jatin Kumar Balchandani
-GitHub: https://github.com/jatinavi
